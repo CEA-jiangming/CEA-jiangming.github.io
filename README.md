@@ -1,1 +1,1 @@
-### Welcome to [my homepage](https://github.com/cea-jiangming.github.io)
+### Welcome to [my homepage](https://cea-jiangming.github.io)
