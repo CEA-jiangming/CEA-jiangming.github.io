@@ -1,0 +1,17 @@
+---
+layout: single
+---
+
+<h1> Biography </h1>
+<p>Currently a post-doc in Signal Processing Laboratory 5 (LTS5), EPFL, I am working on inverse problem for radio interferometry with Prof. Jean-Philippe Thiran and Prof. Yves Wiaux. Modern radio interferometers, such as Square Kilometer Array (SKA), will acquire unprecedented amount of data, which is of paramount importance to research sophisticated imaging algorithms and efficient data processing methods, requiring interdisciplinary research in the fields of physics, applied mathematics and data science. In this context, my research focuses on signal and image processing, inverse problem, compressed sensing, machine learning and optimization.</p>
+
+<p>Prior to joining the LTS5 Lab, I received the B.S. degree in Electronics Engineering from Xidian University, Xi'an, China, in 2011, both of the M.Eng. degree (Diplôme d’Ingénieur) and the M.Res. degree in image processing from IMT Atlantique (ex-Télécom Bretagne), Brest, France, and the Ph.D. degree in Astronomy and Astrophysics from Universié Paris-Sud, Orsay, France, in 2014 and 2017, respectively. My Ph.D. thesis was supervised by <a href="http://jstarck.cosmostat.org/">Dr. Jean-Luc Starck</a></p>
+
+<h1> Recent news </h1>
+<ul>
+    {% for news in site.categories.news limit:5 %}
+    <li>
+        [{{ news.date | date_to_string}}] {{ news.title }}
+    </li>
+    {% endfor %}
+</ul>
