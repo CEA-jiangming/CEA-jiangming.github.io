@@ -14,6 +14,7 @@
 import glob
 import getorg
 from geopy import Nominatim
+from geopy.exc import GeocoderTimedOut
 
 g = glob.glob("*.md")
 
@@ -34,8 +35,10 @@ for file in g:
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
                             
-           
-        location_dict[location] = geocoder.geocode(location)
+        try:
+            location_dict[location] = geocoder.geocode(location, timeout=10000)
+        except GeocoderTimedOut as e:
+            print("Error: geocode failed on input %s with message %s"%(location, e))
         print(location, "\n", location_dict[location])
 
 
