@@ -12,6 +12,7 @@ layout: single
     {% for news in site.categories.news limit:5 %}
     <li>
         [{{ news.date | date_to_string}}] {{ news.title }}
+        {% if news.filelink %}[<a href={{ news.url }}>More</a>] {% endif %}
     </li>
     {% endfor %}
 </ul>
