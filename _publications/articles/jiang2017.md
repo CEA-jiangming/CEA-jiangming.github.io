@@ -8,7 +8,7 @@ venue: 'SIAM J. Imaging Sci.'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/16M1103713'
 citation: '<b>Ming Jiang<sup>*</sup></b>, J<span class="bibtex-protected">é</span>r<span class="bibtex-protected">ô</span>me Bobin, and Jean-Luc Starck.
           Joint multichannel deconvolution and blind source separation.
-          <em>SIAM Journal on Imaging Sciences</em>, 10(4):1997–2021, 2017.'
+          <em>SIAM Journal on Imaging Sciences</em>, 10(4):1997–2021, 2017. <a href="https://doi.org/10.1137/16M1103713">doi: 10.1137/16M1103713</a>.'
 show_citation: false
 type: articles
 ---

@@ -7,7 +7,7 @@ date: 2020-03-16
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2003.07358'
 citation: 'Pierre-Antoine Thouvenin<sup>*#</sup>, Abdullah Abdulaziz<sup>#</sup>, <b>Ming Jiang<sup>#</sup></b>, Arwa Dabbech<sup>#</sup>, Audrey Repetti<sup>#</sup>, Adrian Jackson, Jean-Philippe Thiran, and Yves Wiaux.
-          Parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): when precision meets scalability. 2020.<a href="https://arxiv.org/abs/2003.07358">arXiv:2003.07358</a>.'
+          Parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): when precision meets scalability. 2020. <a href="https://arxiv.org/abs/2003.07358">arXiv:2003.07358</a>.'
 show_citation: false
 type: articles
 ---
