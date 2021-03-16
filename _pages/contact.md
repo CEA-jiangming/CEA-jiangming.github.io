@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 ## Address
-<p>EPFL-STI-IEL-LTS5
-<br>Station 11
-<br>CH-1015, Lausanne, Switzerland</p>
+<p>Xidian University
+<br>No.2, Taibai South Road
+<br>710071, Xi'an, China</p>
 
 ## Email
-[ming.jiang@epfl.ch](mailto:ming.jiang@epfl.ch)
+[mingjiang@xidian.edu.cn](mailto:mingjiang@xidan.edu.cn)
