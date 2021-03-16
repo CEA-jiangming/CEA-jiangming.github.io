@@ -21,7 +21,8 @@ Education
 
 Experience
 ======
-* Since 11/2017: Scientist (Post-doc)
+* Since 11/2020: Tenure-Track Associate Professor, National Laboratory of Radar Signal Processing, Xidian University
+* 11/2017 - 11/2020: Scientist (Post-doc)
   * LTS5, EPFL, Switzerland
   * Mentors: <a href="https://www.epfl.ch/labs/lts5/thiran-html/">Prof. Jean-Philippe Thiran</a> and <a href="https://researchportal.hw.ac.uk/en/persons/yves-wiaux">Prof. Yves Wiaux</a>
 

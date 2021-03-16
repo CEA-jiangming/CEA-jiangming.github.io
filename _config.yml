@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Ming Jiang (姜明)"
   avatar           : "profile.jpg"
-  bio              : 'Post-doc, <a href="https://www.epfl.ch/labs/lts5/">Signal Processing Labratory 5 (LTS5)</a>, EPFL'
-  location         : "Lausanne, Switzerland"
-  employer         : "EPFL"
-  employer_website :  "https://www.epfl.ch/en/"
+  bio              : 'Tenure-Track Associate Professor, <a href="https://rsp.xidian.edu.cn/html/english/">National Laboratory of Radar Signal Processing</a>, Xidian University'
+  location         : "Xi'an, China"
+  employer         : "Xidian University"
+  employer_website :  "https://en.xidian.edu.cn/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6lLAgpwAAAAJ&hl=en"
-  email            : "ming.jiang@epfl.ch"
+  email            : "mingjiang@xidian.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Ming_Jiang31"
   uri              :
   bitbucket        :
